@@ -1,10 +1,10 @@
-# Solidity Smart Contract tutorial
+# Etherjs simple storage
 
- 
-```javascript
-    main()
-    .then(() => process.exit(0))
-    .catch((err) => {
-        console.log(err)
-    })
-```# etherjs-simplestorage
+
+```sh
+npm install
+```
+
+```sh
+npm run compile 
+```
